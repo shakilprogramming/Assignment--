@@ -1,4 +1,10 @@
-## Features
+10. **Deployed to Netlify**: Deployed the live version of the website to Netlify for public access.4. **Admin Panel**: Added functionality for admins to manage properties (add, edit, delete).
+5. **Interactive Map**: Integrated an interactive map using `react-leaflet` to show property locations.
+6. **Theme Toggle**: Implemented dark/light theme toggle functionality using React context.
+7. **Contact Form**: Added a contact form to allow users to inquire about properties.
+8. **Responsive Layout**: Refined responsive layout for mobile-first design.
+9. **Bug Fixes**: Fixed minor issues related to routing and state management.
+10. **Deployed to Netlify**: Deployed the live version of the website to Netlify for public access.## Features
 - **Property Listings**: Users can browse a list of available properties for sale or rent.
 - **User Authentication**: Secure login and registration using Firebase Authentication, including Google, Facebook, and GitHub login.
 - **Admin Panel**: Admins can add, edit, or delete property listings from the website.
