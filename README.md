@@ -14,11 +14,4 @@
 ## Notable GitHub Commits
 1. **Initial Commit**: Set up React project with Tailwind CSS and basic file structure.
 2. **Implemented Firebase Authentication**: Added Firebase for user login, including Google, Facebook, and GitHub login.
-3. **Property Listing Page**: Created a dynamic page for displaying available properties.
-4. **Admin Panel**: Added functionality for admins to manage properties (add, edit, delete).
-5. **Interactive Map**: Integrated an interactive map using `react-leaflet` to show property locations.
-6. **Theme Toggle**: Implemented dark/light theme toggle functionality using React context.
-7. **Contact Form**: Added a contact form to allow users to inquire about properties.
-8. **Responsive Layout**: Refined responsive layout for mobile-first design.
-9. **Bug Fixes**: Fixed minor issues related to routing and state management.
-10. **Deployed to Netlify**: Deployed the live version of the website to Netlify for public access.
+
