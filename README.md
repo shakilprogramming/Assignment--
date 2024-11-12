@@ -15,3 +15,5 @@
 1. **Initial Commit**: Set up React project with Tailwind CSS and basic file structure.
 2. **Implemented Firebase Authentication**: Added Firebase for user login, including Google, Facebook, and GitHub login.
 3. **Property Listing Page**: Created a dynamic page for displaying available properties.
+4. **Admin Panel**: Added functionality for admins to manage properties (add, edit, delete).
+5. **Interactive Map**: Integrated an interactive map using `react-leaflet` to show property locations.
