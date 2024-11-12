@@ -19,3 +19,5 @@
 5. **Interactive Map**: Integrated an interactive map using `react-leaflet` to show property locations.
 6. **Theme Toggle**: Implemented dark/light theme toggle functionality using React context.
 7. **Contact Form**: Added a contact form to allow users to inquire about properties.
+8. **Responsive Layout**: Refined responsive layout for mobile-first design.
+9. **Bug Fixes**: Fixed minor issues related to routing and state management.
